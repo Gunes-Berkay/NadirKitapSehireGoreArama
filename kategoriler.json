@@ -1,0 +1,1254 @@
+[
+  {
+    "ana_kategori_id": "43",
+    "ana_kategori_adi": "Bilim ve Teknik",
+    "ana_kategori_aciklama": "Bilim Kitapları",
+    "ana_kategori_url": "https://www.nadirkitap.com/bilim-ve-teknik-kategori43.html",
+    "alt_kategoriler": [
+      {
+        "kategori_id": "349",
+        "kategori_adi": "Antropoloji",
+        "kategori_aciklama": "Antropoloji",
+        "kategori_url": "https://www.nadirkitap.com/antropoloji-kategori349.html"
+      },
+      {
+        "kategori_id": "52",
+        "kategori_adi": "Astronomi",
+        "kategori_aciklama": "Astronomi",
+        "kategori_url": "https://www.nadirkitap.com/astronomi-kategori52.html"
+      },
+      {
+        "kategori_id": "53",
+        "kategori_adi": "Bilgisayar, İnternet",
+        "kategori_aciklama": "Bilgisayar, İnternet",
+        "kategori_url": "https://www.nadirkitap.com/bilgisayar-internet-kategori53.html"
+      },
+      {
+        "kategori_id": "51",
+        "kategori_adi": "Bilim tarihi",
+        "kategori_aciklama": "Bilim tarihi",
+        "kategori_url": "https://www.nadirkitap.com/bilim-tarihi-kategori51.html"
+      },
+      {
+        "kategori_id": "233",
+        "kategori_adi": "Biyografi",
+        "kategori_aciklama": "Biyografi",
+        "kategori_url": "https://www.nadirkitap.com/biyografi-kategori233.html"
+      },
+      {
+        "kategori_id": "49",
+        "kategori_adi": "Coğrafya",
+        "kategori_aciklama": "Coğrafya",
+        "kategori_url": "https://www.nadirkitap.com/cografya-kategori49.html"
+      },
+      {
+        "kategori_id": "299",
+        "kategori_adi": "Çevre, Ekoloji",
+        "kategori_aciklama": "Çevre, Ekoloji",
+        "kategori_url": "https://www.nadirkitap.com/cevre-ekoloji-kategori299.html"
+      },
+      {
+        "kategori_id": "50",
+        "kategori_adi": "Fen Bilimleri",
+        "kategori_aciklama": "Fen Bilimleri",
+        "kategori_url": "https://www.nadirkitap.com/fen-bilimleri-kategori50.html"
+      },
+      {
+        "kategori_id": "48",
+        "kategori_adi": "Jeoloji",
+        "kategori_aciklama": "Jeoloji",
+        "kategori_url": "https://www.nadirkitap.com/jeoloji-kategori48.html"
+      },
+      {
+        "kategori_id": "343",
+        "kategori_adi": "Matematik",
+        "kategori_aciklama": "Matematik",
+        "kategori_url": "https://www.nadirkitap.com/matematik-kategori343.html"
+      },
+      {
+        "kategori_id": "47",
+        "kategori_adi": "Mimarlık, Mühendislik",
+        "kategori_aciklama": "Mimarlık, Mühendislik",
+        "kategori_url": "https://www.nadirkitap.com/mimarlik-muhendislik-kategori47.html"
+      },
+      {
+        "kategori_id": "327",
+        "kategori_adi": "Popüler Bilim",
+        "kategori_aciklama": "Popüler Bilim",
+        "kategori_url": "https://www.nadirkitap.com/populer-bilim-kategori327.html"
+      },
+      {
+        "kategori_id": "46",
+        "kategori_adi": "Tıp, Eczacılık",
+        "kategori_aciklama": "Tıp, Eczacılık",
+        "kategori_url": "https://www.nadirkitap.com/tip-eczacilik-kategori46.html"
+      },
+      {
+        "kategori_id": "215",
+        "kategori_adi": "Ziraat, Tarım",
+        "kategori_aciklama": "Ziraat, Tarım",
+        "kategori_url": "https://www.nadirkitap.com/ziraat-tarim-kategori215.html"
+      },
+      {
+        "kategori_id": "45",
+        "kategori_adi": "Zooloji",
+        "kategori_aciklama": "Zooloji",
+        "kategori_url": "https://www.nadirkitap.com/zooloji-kategori45.html"
+      },
+      {
+        "kategori_id": "44",
+        "kategori_adi": "Diğer",
+        "kategori_aciklama": "Diğer",
+        "kategori_url": "https://www.nadirkitap.com/diger-kategori44.html"
+      }
+    ]
+  },
+  {
+    "ana_kategori_id": "350",
+    "ana_kategori_adi": "Çizgi Roman",
+    "ana_kategori_aciklama": "Çizgi Roman",
+    "ana_kategori_url": "https://www.nadirkitap.com/cizgi-roman-kategori350.html",
+    "alt_kategoriler": [
+      {
+        "kategori_id": "63",
+        "kategori_adi": "Çocuk",
+        "kategori_aciklama": "Çocuk",
+        "kategori_url": "https://www.nadirkitap.com/cocuk-kategori63.html"
+      },
+      {
+        "kategori_id": "236",
+        "kategori_adi": "Koleksiyon",
+        "kategori_aciklama": "Koleksiyon",
+        "kategori_url": "https://www.nadirkitap.com/koleksiyon-kategori236.html"
+      }
+    ]
+  },
+  {
+    "ana_kategori_id": "59",
+    "ana_kategori_adi": "Çocuk Kitapları",
+    "ana_kategori_aciklama": "Çocuk Kitapları",
+    "ana_kategori_url": "https://www.nadirkitap.com/cocuk-kitaplari-kategori59.html",
+    "alt_kategoriler": [
+      {
+        "kategori_id": "64",
+        "kategori_adi": "Bilgi, Referans",
+        "kategori_aciklama": "Bilgi, Referans",
+        "kategori_url": "https://www.nadirkitap.com/bilgi-referans-kategori64.html"
+      },
+      {
+        "kategori_id": "334",
+        "kategori_adi": "Dini Çocuk Kitapları",
+        "kategori_aciklama": "Dini Çocuk Kitapları",
+        "kategori_url": "https://www.nadirkitap.com/dini-cocuk-kitaplari-kategori334.html"
+      },
+      {
+        "kategori_id": "62",
+        "kategori_adi": "Hikaye, Masal",
+        "kategori_aciklama": "Hikaye, Masal",
+        "kategori_url": "https://www.nadirkitap.com/hikaye-masal-kategori62.html"
+      },
+      {
+        "kategori_id": "333",
+        "kategori_adi": "Okul Öncesi",
+        "kategori_aciklama": "Okul Öncesi",
+        "kategori_url": "https://www.nadirkitap.com/okul-oncesi-kategori333.html"
+      },
+      {
+        "kategori_id": "61",
+        "kategori_adi": "Roman",
+        "kategori_aciklama": "Roman",
+        "kategori_url": "https://www.nadirkitap.com/roman-kategori61.html"
+      },
+      {
+        "kategori_id": "305",
+        "kategori_adi": "Şiir",
+        "kategori_aciklama": "Şiir",
+        "kategori_url": "https://www.nadirkitap.com/siir-kategori305.html"
+      },
+      {
+        "kategori_id": "60",
+        "kategori_adi": "Diğer",
+        "kategori_aciklama": "Diğer",
+        "kategori_url": "https://www.nadirkitap.com/diger-kategori60.html"
+      }
+    ]
+  },
+  {
+    "ana_kategori_id": "65",
+    "ana_kategori_adi": "Din",
+    "ana_kategori_aciklama": "Dini Kitaplar",
+    "ana_kategori_url": "https://www.nadirkitap.com/din-kategori65.html",
+    "alt_kategoriler": [
+      {
+        "kategori_id": "70",
+        "kategori_adi": "Dinler Tarihi",
+        "kategori_aciklama": "Dinler Tarihi",
+        "kategori_url": "https://www.nadirkitap.com/dinler-tarihi-kategori70.html"
+      },
+      {
+        "kategori_id": "68",
+        "kategori_adi": "Hristiyanlık",
+        "kategori_aciklama": "Hristiyanlık",
+        "kategori_url": "https://www.nadirkitap.com/hristiyanlik-kategori68.html"
+      },
+      {
+        "kategori_id": "69",
+        "kategori_adi": "İslamiyet",
+        "kategori_aciklama": "İslamiyet",
+        "kategori_url": "https://www.nadirkitap.com/islamiyet-kategori69.html"
+      },
+      {
+        "kategori_id": "67",
+        "kategori_adi": "Musevilik",
+        "kategori_aciklama": "Musevilik",
+        "kategori_url": "https://www.nadirkitap.com/musevilik-kategori67.html"
+      },
+      {
+        "kategori_id": "66",
+        "kategori_adi": "Diğer",
+        "kategori_aciklama": "Diğer",
+        "kategori_url": "https://www.nadirkitap.com/diger-kategori66.html"
+      }
+    ]
+  },
+  {
+    "ana_kategori_id": "77",
+    "ana_kategori_adi": "Edebiyat",
+    "ana_kategori_aciklama": "Edebiyat Kitapları",
+    "ana_kategori_url": "https://www.nadirkitap.com/edebiyat-kategori77.html",
+    "alt_kategoriler": [
+      {
+        "kategori_id": "303",
+        "kategori_adi": "Antoloji",
+        "kategori_aciklama": "Antoloji",
+        "kategori_url": "https://www.nadirkitap.com/antoloji-kategori303.html"
+      },
+      {
+        "kategori_id": "238",
+        "kategori_adi": "Bilimkurgu, Fantastik",
+        "kategori_aciklama": "Bilimkurgu, Fantastik",
+        "kategori_url": "https://www.nadirkitap.com/bilimkurgu-fantastik-kategori238.html"
+      },
+      {
+        "kategori_id": "87",
+        "kategori_adi": "Biyografi",
+        "kategori_aciklama": "Biyografi",
+        "kategori_url": "https://www.nadirkitap.com/biyografi-kategori87.html"
+      },
+      {
+        "kategori_id": "222",
+        "kategori_adi": "Dedektif-Polisiye, Macera",
+        "kategori_aciklama": "Dedektif-Polisiye, Macera",
+        "kategori_url": "https://www.nadirkitap.com/dedektif-polisiye-macera-kategori222.html"
+      },
+      {
+        "kategori_id": "86",
+        "kategori_adi": "Deneme",
+        "kategori_aciklama": "Deneme",
+        "kategori_url": "https://www.nadirkitap.com/deneme-kategori86.html"
+      },
+      {
+        "kategori_id": "85",
+        "kategori_adi": "Edebiyat Tarihi",
+        "kategori_aciklama": "Edebiyat Tarihi",
+        "kategori_url": "https://www.nadirkitap.com/edebiyat-tarihi-kategori85.html"
+      },
+      {
+        "kategori_id": "240",
+        "kategori_adi": "Eleştiri, İnceleme",
+        "kategori_aciklama": "Eleştiri, İnceleme",
+        "kategori_url": "https://www.nadirkitap.com/elestiri-inceleme-kategori240.html"
+      },
+      {
+        "kategori_id": "84",
+        "kategori_adi": "Filoloji, Dilbilim",
+        "kategori_aciklama": "Filoloji, Dilbilim",
+        "kategori_url": "https://www.nadirkitap.com/filoloji-dilbilim-kategori84.html"
+      },
+      {
+        "kategori_id": "234",
+        "kategori_adi": "Gezi",
+        "kategori_aciklama": "Gezi",
+        "kategori_url": "https://www.nadirkitap.com/gezi-kategori234.html"
+      },
+      {
+        "kategori_id": "83",
+        "kategori_adi": "Hatırat, Anı",
+        "kategori_aciklama": "Hatırat, Anı",
+        "kategori_url": "https://www.nadirkitap.com/hatirat-ani-kategori83.html"
+      },
+      {
+        "kategori_id": "205",
+        "kategori_adi": "Mektup",
+        "kategori_aciklama": "Mektup",
+        "kategori_url": "https://www.nadirkitap.com/mektup-kategori205.html"
+      },
+      {
+        "kategori_id": "228",
+        "kategori_adi": "Mizah",
+        "kategori_aciklama": "Mizah",
+        "kategori_url": "https://www.nadirkitap.com/mizah-kategori228.html"
+      },
+      {
+        "kategori_id": "82",
+        "kategori_adi": "Öykü, Hikaye",
+        "kategori_aciklama": "Öykü, Hikaye",
+        "kategori_url": "https://www.nadirkitap.com/oyku-hikaye-kategori82.html"
+      },
+      {
+        "kategori_id": "81",
+        "kategori_adi": "Roman",
+        "kategori_aciklama": "Roman",
+        "kategori_url": "https://www.nadirkitap.com/roman-kategori81.html"
+      },
+      {
+        "kategori_id": "80",
+        "kategori_adi": "Şiir",
+        "kategori_aciklama": "Şiir",
+        "kategori_url": "https://www.nadirkitap.com/siir-kategori80.html"
+      },
+      {
+        "kategori_id": "321",
+        "kategori_adi": "Tarihi Roman",
+        "kategori_aciklama": "Tarihi Roman",
+        "kategori_url": "https://www.nadirkitap.com/tarihi-roman-kategori321.html"
+      },
+      {
+        "kategori_id": "79",
+        "kategori_adi": "Tiyatro",
+        "kategori_aciklama": "Tiyatro",
+        "kategori_url": "https://www.nadirkitap.com/tiyatro-kategori79.html"
+      },
+      {
+        "kategori_id": "214",
+        "kategori_adi": "Türk Dili",
+        "kategori_aciklama": "Türk Dili",
+        "kategori_url": "https://www.nadirkitap.com/turk-dili-kategori214.html"
+      },
+      {
+        "kategori_id": "78",
+        "kategori_adi": "Diğer",
+        "kategori_aciklama": "Diğer",
+        "kategori_url": "https://www.nadirkitap.com/diger-kategori78.html"
+      }
+    ]
+  },
+  {
+    "ana_kategori_id": "109",
+    "ana_kategori_adi": "Ekonomi & İş Dünyası",
+    "ana_kategori_aciklama": "Ekonomi Kitapları",
+    "ana_kategori_url": "https://www.nadirkitap.com/ekonomi-ve-is-dunyasi-kategori109.html",
+    "alt_kategoriler": [
+      {
+        "kategori_id": "226",
+        "kategori_adi": "Biyografi",
+        "kategori_aciklama": "Biyografi",
+        "kategori_url": "https://www.nadirkitap.com/biyografi-kategori226.html"
+      },
+      {
+        "kategori_id": "116",
+        "kategori_adi": "Dünya Ekonomisi",
+        "kategori_aciklama": "Dünya Ekonomisi",
+        "kategori_url": "https://www.nadirkitap.com/dunya-ekonomisi-kategori116.html"
+      },
+      {
+        "kategori_id": "115",
+        "kategori_adi": "Finans, Borsa",
+        "kategori_aciklama": "Finans, Borsa",
+        "kategori_url": "https://www.nadirkitap.com/finans-borsa-kategori115.html"
+      },
+      {
+        "kategori_id": "346",
+        "kategori_adi": "Halkla İlişkiler",
+        "kategori_aciklama": "Halkla İlişkiler",
+        "kategori_url": "https://www.nadirkitap.com/halkla-iliskiler-kategori346.html"
+      },
+      {
+        "kategori_id": "114",
+        "kategori_adi": "İktisat",
+        "kategori_aciklama": "İktisat",
+        "kategori_url": "https://www.nadirkitap.com/iktisat-kategori114.html"
+      },
+      {
+        "kategori_id": "342",
+        "kategori_adi": "İnceleme - Araştırma",
+        "kategori_aciklama": "İnceleme - Araştırma",
+        "kategori_url": "https://www.nadirkitap.com/inceleme-arastirma-kategori342.html"
+      },
+      {
+        "kategori_id": "112",
+        "kategori_adi": "İş Dünyası & Kariyer",
+        "kategori_aciklama": "İş Dünyası & Kariyer",
+        "kategori_url": "https://www.nadirkitap.com/is-dunyasi-ve-kariyer-kategori112.html"
+      },
+      {
+        "kategori_id": "113",
+        "kategori_adi": "İş Yönetimi, İnsan Kaynakları",
+        "kategori_aciklama": "İş Yönetimi, İnsan Kaynakları",
+        "kategori_url": "https://www.nadirkitap.com/is-yonetimi-insan-kaynaklari-kategori113.html"
+      },
+      {
+        "kategori_id": "111",
+        "kategori_adi": "Maliye, Muhasebe",
+        "kategori_aciklama": "Maliye, Muhasebe",
+        "kategori_url": "https://www.nadirkitap.com/maliye-muhasebe-kategori111.html"
+      },
+      {
+        "kategori_id": "320",
+        "kategori_adi": "Pazarlama - Satış",
+        "kategori_aciklama": "Pazarlama - Satış",
+        "kategori_url": "https://www.nadirkitap.com/pazarlama-satis-kategori320.html"
+      },
+      {
+        "kategori_id": "345",
+        "kategori_adi": "Reklamcılık",
+        "kategori_aciklama": "Reklamcılık",
+        "kategori_url": "https://www.nadirkitap.com/reklamcilik-kategori345.html"
+      },
+      {
+        "kategori_id": "203",
+        "kategori_adi": "Teori, Kuram",
+        "kategori_aciklama": "Teori, Kuram",
+        "kategori_url": "https://www.nadirkitap.com/teori-kuram-kategori203.html"
+      },
+      {
+        "kategori_id": "204",
+        "kategori_adi": "Türkiye Ekonomisi",
+        "kategori_aciklama": "Türkiye Ekonomisi",
+        "kategori_url": "https://www.nadirkitap.com/turkiye-ekonomisi-kategori204.html"
+      },
+      {
+        "kategori_id": "110",
+        "kategori_adi": "Diğer",
+        "kategori_aciklama": "Diğer",
+        "kategori_url": "https://www.nadirkitap.com/diger-kategori110.html"
+      }
+    ]
+  },
+  {
+    "ana_kategori_id": "117",
+    "ana_kategori_adi": "Felsefe & Düşünce",
+    "ana_kategori_aciklama": "Felsefe Kitapları",
+    "ana_kategori_url": "https://www.nadirkitap.com/felsefe-ve-dusunce-kategori117.html",
+    "alt_kategoriler": [
+      {
+        "kategori_id": "225",
+        "kategori_adi": "Biyografi",
+        "kategori_aciklama": "Biyografi",
+        "kategori_url": "https://www.nadirkitap.com/biyografi-kategori225.html"
+      },
+      {
+        "kategori_id": "123",
+        "kategori_adi": "Felsefe",
+        "kategori_aciklama": "Felsefe",
+        "kategori_url": "https://www.nadirkitap.com/felsefe-kategori123.html"
+      },
+      {
+        "kategori_id": "122",
+        "kategori_adi": "Mantık",
+        "kategori_aciklama": "Mantık",
+        "kategori_url": "https://www.nadirkitap.com/mantik-kategori122.html"
+      },
+      {
+        "kategori_id": "120",
+        "kategori_adi": "Psikoloji",
+        "kategori_aciklama": "Psikoloji",
+        "kategori_url": "https://www.nadirkitap.com/psikoloji-kategori120.html"
+      },
+      {
+        "kategori_id": "119",
+        "kategori_adi": "Sosyoloji",
+        "kategori_aciklama": "Sosyoloji",
+        "kategori_url": "https://www.nadirkitap.com/sosyoloji-kategori119.html"
+      },
+      {
+        "kategori_id": "118",
+        "kategori_adi": "Diğer",
+        "kategori_aciklama": "Diğer",
+        "kategori_url": "https://www.nadirkitap.com/diger-kategori118.html"
+      }
+    ]
+  },
+  {
+    "ana_kategori_id": "124",
+    "ana_kategori_adi": "Hukuk",
+    "ana_kategori_aciklama": "Hukuk Kitapları",
+    "ana_kategori_url": "https://www.nadirkitap.com/hukuk-kategori124.html",
+    "alt_kategoriler": [
+      {
+        "kategori_id": "127",
+        "kategori_adi": "Anayasa, Kanun, Mevzuat",
+        "kategori_aciklama": "Anayasa, Kanun, Mevzuat",
+        "kategori_url": "https://www.nadirkitap.com/anayasa-kanun-mevzuat-kategori127.html"
+      },
+      {
+        "kategori_id": "130",
+        "kategori_adi": "Ceza Hukuku",
+        "kategori_aciklama": "Ceza Hukuku",
+        "kategori_url": "https://www.nadirkitap.com/ceza-hukuku-kategori130.html"
+      },
+      {
+        "kategori_id": "129",
+        "kategori_adi": "Devletler Hukuku",
+        "kategori_aciklama": "Devletler Hukuku",
+        "kategori_url": "https://www.nadirkitap.com/devletler-hukuku-kategori129.html"
+      },
+      {
+        "kategori_id": "128",
+        "kategori_adi": "Hukuk Tarihi",
+        "kategori_aciklama": "Hukuk Tarihi",
+        "kategori_url": "https://www.nadirkitap.com/hukuk-tarihi-kategori128.html"
+      },
+      {
+        "kategori_id": "291",
+        "kategori_adi": "İslam Hukuku",
+        "kategori_aciklama": "İslam Hukuku",
+        "kategori_url": "https://www.nadirkitap.com/islam-hukuku-kategori291.html"
+      },
+      {
+        "kategori_id": "126",
+        "kategori_adi": "Mali, Ticari Hukuk",
+        "kategori_aciklama": "Mali, Ticari Hukuk",
+        "kategori_url": "https://www.nadirkitap.com/mali-ticari-hukuk-kategori126.html"
+      },
+      {
+        "kategori_id": "131",
+        "kategori_adi": "Medeni Hukuk",
+        "kategori_aciklama": "Medeni Hukuk",
+        "kategori_url": "https://www.nadirkitap.com/medeni-hukuk-kategori131.html"
+      },
+      {
+        "kategori_id": "242",
+        "kategori_adi": "Teori, Kuram",
+        "kategori_aciklama": "Teori, Kuram",
+        "kategori_url": "https://www.nadirkitap.com/teori-kuram-kategori242.html"
+      },
+      {
+        "kategori_id": "125",
+        "kategori_adi": "Diğer",
+        "kategori_aciklama": "Diğer",
+        "kategori_url": "https://www.nadirkitap.com/diger-kategori125.html"
+      }
+    ]
+  },
+  {
+    "ana_kategori_id": "3",
+    "ana_kategori_adi": "Osmanlıca",
+    "ana_kategori_aciklama": "Osmanlıca Kitaplar",
+    "ana_kategori_url": "https://www.nadirkitap.com/osmanlica-kategori3.html",
+    "alt_kategoriler": [
+      {
+        "kategori_id": "9",
+        "kategori_adi": "Ansiklopedi, Sözlük",
+        "kategori_aciklama": "Ansiklopedi, Sözlük",
+        "kategori_url": "https://www.nadirkitap.com/ansiklopedi-sozluk-kategori9.html"
+      },
+      {
+        "kategori_id": "244",
+        "kategori_adi": "Bilim Teknik",
+        "kategori_aciklama": "Bilim Teknik",
+        "kategori_url": "https://www.nadirkitap.com/bilim-teknik-kategori244.html"
+      },
+      {
+        "kategori_id": "229",
+        "kategori_adi": "Biyografi",
+        "kategori_aciklama": "Biyografi",
+        "kategori_url": "https://www.nadirkitap.com/biyografi-kategori229.html"
+      },
+      {
+        "kategori_id": "10",
+        "kategori_adi": "Coğrafya",
+        "kategori_aciklama": "Coğrafya",
+        "kategori_url": "https://www.nadirkitap.com/cografya-kategori10.html"
+      },
+      {
+        "kategori_id": "12",
+        "kategori_adi": "Dergi, Gazete",
+        "kategori_aciklama": "Dergi, Gazete",
+        "kategori_url": "https://www.nadirkitap.com/dergi-gazete-kategori12.html"
+      },
+      {
+        "kategori_id": "13",
+        "kategori_adi": "Ders Kitapları",
+        "kategori_aciklama": "Ders Kitapları",
+        "kategori_url": "https://www.nadirkitap.com/ders-kitaplari-kategori13.html"
+      },
+      {
+        "kategori_id": "11",
+        "kategori_adi": "Din, Felsefe",
+        "kategori_aciklama": "Din, Felsefe",
+        "kategori_url": "https://www.nadirkitap.com/din-felsefe-kategori11.html"
+      },
+      {
+        "kategori_id": "14",
+        "kategori_adi": "Edebiyat",
+        "kategori_aciklama": "Edebiyat",
+        "kategori_url": "https://www.nadirkitap.com/edebiyat-kategori14.html"
+      },
+      {
+        "kategori_id": "280",
+        "kategori_adi": "El Yazması",
+        "kategori_aciklama": "El Yazması",
+        "kategori_url": "https://www.nadirkitap.com/el-yazmasi-kategori280.html"
+      },
+      {
+        "kategori_id": "217",
+        "kategori_adi": "Hatırat, Anı",
+        "kategori_aciklama": "Hatırat, Anı",
+        "kategori_url": "https://www.nadirkitap.com/hatirat-ani-kategori217.html"
+      },
+      {
+        "kategori_id": "243",
+        "kategori_adi": "Hukuk",
+        "kategori_aciklama": "Hukuk",
+        "kategori_url": "https://www.nadirkitap.com/hukuk-kategori243.html"
+      },
+      {
+        "kategori_id": "302",
+        "kategori_adi": "İktisat",
+        "kategori_aciklama": "İktisat",
+        "kategori_url": "https://www.nadirkitap.com/iktisat-kategori302.html"
+      },
+      {
+        "kategori_id": "15",
+        "kategori_adi": "Salname, Yıllık",
+        "kategori_aciklama": "Salname, Yıllık",
+        "kategori_url": "https://www.nadirkitap.com/salname-yillik-kategori15.html"
+      },
+      {
+        "kategori_id": "16",
+        "kategori_adi": "Sanat",
+        "kategori_aciklama": "Sanat",
+        "kategori_url": "https://www.nadirkitap.com/sanat-kategori16.html"
+      },
+      {
+        "kategori_id": "200",
+        "kategori_adi": "Tarih",
+        "kategori_aciklama": "Tarih",
+        "kategori_url": "https://www.nadirkitap.com/tarih-kategori200.html"
+      },
+      {
+        "kategori_id": "300",
+        "kategori_adi": "Toplum&Siyaset",
+        "kategori_aciklama": "Toplum&Siyaset",
+        "kategori_url": "https://www.nadirkitap.com/toplumvesiyaset-kategori300.html"
+      },
+      {
+        "kategori_id": "18",
+        "kategori_adi": "Diğer",
+        "kategori_aciklama": "Diğer",
+        "kategori_url": "https://www.nadirkitap.com/diger-kategori18.html"
+      }
+    ]
+  },
+  {
+    "ana_kategori_id": "132",
+    "ana_kategori_adi": "Referans & Başvuru",
+    "ana_kategori_aciklama": "Başvuru Kitapları",
+    "ana_kategori_url": "https://www.nadirkitap.com/referans-ve-basvuru-kategori132.html",
+    "alt_kategoriler": [
+      {
+        "kategori_id": "140",
+        "kategori_adi": "Ansiklopedi",
+        "kategori_aciklama": "Ansiklopedi",
+        "kategori_url": "https://www.nadirkitap.com/ansiklopedi-kategori140.html"
+      },
+      {
+        "kategori_id": "139",
+        "kategori_adi": "Atlas, Harita",
+        "kategori_aciklama": "Atlas, Harita",
+        "kategori_url": "https://www.nadirkitap.com/atlas-harita-kategori139.html"
+      },
+      {
+        "kategori_id": "138",
+        "kategori_adi": "Bibliografya",
+        "kategori_aciklama": "Bibliografya",
+        "kategori_url": "https://www.nadirkitap.com/bibliografya-kategori138.html"
+      },
+      {
+        "kategori_id": "137",
+        "kategori_adi": "Katalog",
+        "kategori_aciklama": "Katalog",
+        "kategori_url": "https://www.nadirkitap.com/katalog-kategori137.html"
+      },
+      {
+        "kategori_id": "136",
+        "kategori_adi": "Rehber",
+        "kategori_aciklama": "Rehber",
+        "kategori_url": "https://www.nadirkitap.com/rehber-kategori136.html"
+      },
+      {
+        "kategori_id": "135",
+        "kategori_adi": "Sözlük",
+        "kategori_aciklama": "Sözlük",
+        "kategori_url": "https://www.nadirkitap.com/sozluk-kategori135.html"
+      },
+      {
+        "kategori_id": "134",
+        "kategori_adi": "Yıllık",
+        "kategori_aciklama": "Yıllık",
+        "kategori_url": "https://www.nadirkitap.com/yillik-kategori134.html"
+      },
+      {
+        "kategori_id": "133",
+        "kategori_adi": "Diğer",
+        "kategori_aciklama": "Diğer",
+        "kategori_url": "https://www.nadirkitap.com/diger-kategori133.html"
+      }
+    ]
+  },
+  {
+    "ana_kategori_id": "141",
+    "ana_kategori_adi": "Sağlık",
+    "ana_kategori_aciklama": "Sağlık Kitapları",
+    "ana_kategori_url": "https://www.nadirkitap.com/saglik-kategori141.html",
+    "alt_kategoriler": [
+      {
+        "kategori_id": "149",
+        "kategori_adi": "Aile, evlilik",
+        "kategori_aciklama": "Aile, evlilik",
+        "kategori_url": "https://www.nadirkitap.com/aile-evlilik-kategori149.html"
+      },
+      {
+        "kategori_id": "331",
+        "kategori_adi": "Alternatif Tıp",
+        "kategori_aciklama": "Alternatif Tıp",
+        "kategori_url": "https://www.nadirkitap.com/alternatif-tip-kategori331.html"
+      },
+      {
+        "kategori_id": "330",
+        "kategori_adi": "Beslenme - Diyet",
+        "kategori_aciklama": "Beslenme - Diyet",
+        "kategori_url": "https://www.nadirkitap.com/beslenme-diyet-kategori330.html"
+      },
+      {
+        "kategori_id": "147",
+        "kategori_adi": "Cinsel yaşam",
+        "kategori_aciklama": "Cinsel yaşam",
+        "kategori_url": "https://www.nadirkitap.com/cinsel-yasam-kategori147.html"
+      },
+      {
+        "kategori_id": "146",
+        "kategori_adi": "Çocuk bakımı",
+        "kategori_aciklama": "Çocuk bakımı",
+        "kategori_url": "https://www.nadirkitap.com/cocuk-bakimi-kategori146.html"
+      },
+      {
+        "kategori_id": "145",
+        "kategori_adi": "Kişisel gelişim",
+        "kategori_aciklama": "Kişisel gelişim",
+        "kategori_url": "https://www.nadirkitap.com/kisisel-gelisim-kategori145.html"
+      },
+      {
+        "kategori_id": "144",
+        "kategori_adi": "Sağlıklı Yaşam",
+        "kategori_aciklama": "Sağlıklı Yaşam",
+        "kategori_url": "https://www.nadirkitap.com/saglikli-yasam-kategori144.html"
+      },
+      {
+        "kategori_id": "143",
+        "kategori_adi": "Şifalı bitkiler",
+        "kategori_aciklama": "Şifalı bitkiler",
+        "kategori_url": "https://www.nadirkitap.com/sifali-bitkiler-kategori143.html"
+      },
+      {
+        "kategori_id": "142",
+        "kategori_adi": "Diğer",
+        "kategori_aciklama": "Diğer",
+        "kategori_url": "https://www.nadirkitap.com/diger-kategori142.html"
+      }
+    ]
+  },
+  {
+    "ana_kategori_id": "150",
+    "ana_kategori_adi": "Sanat",
+    "ana_kategori_aciklama": "Sanat Kitapları",
+    "ana_kategori_url": "https://www.nadirkitap.com/sanat-kategori150.html",
+    "alt_kategoriler": [
+      {
+        "kategori_id": "223",
+        "kategori_adi": "Biyografi",
+        "kategori_aciklama": "Biyografi",
+        "kategori_url": "https://www.nadirkitap.com/biyografi-kategori223.html"
+      },
+      {
+        "kategori_id": "340",
+        "kategori_adi": "El Sanatları - El İşleri",
+        "kategori_aciklama": "El Sanatları - El İşleri",
+        "kategori_url": "https://www.nadirkitap.com/el-sanatlari-el-isleri-kategori340.html"
+      },
+      {
+        "kategori_id": "158",
+        "kategori_adi": "Fotoğraf",
+        "kategori_aciklama": "Fotoğraf",
+        "kategori_url": "https://www.nadirkitap.com/fotograf-kategori158.html"
+      },
+      {
+        "kategori_id": "157",
+        "kategori_adi": "Geleneksel Sanatlar",
+        "kategori_aciklama": "Geleneksel Sanatlar",
+        "kategori_url": "https://www.nadirkitap.com/geleneksel-sanatlar-kategori157.html"
+      },
+      {
+        "kategori_id": "292",
+        "kategori_adi": "İslam Sanatı",
+        "kategori_aciklama": "İslam Sanatı",
+        "kategori_url": "https://www.nadirkitap.com/islam-sanati-kategori292.html"
+      },
+      {
+        "kategori_id": "298",
+        "kategori_adi": "Mimari",
+        "kategori_aciklama": "Mimari",
+        "kategori_url": "https://www.nadirkitap.com/mimari-kategori298.html"
+      },
+      {
+        "kategori_id": "239",
+        "kategori_adi": "Modern Sanatlar",
+        "kategori_aciklama": "Modern Sanatlar",
+        "kategori_url": "https://www.nadirkitap.com/modern-sanatlar-kategori239.html"
+      },
+      {
+        "kategori_id": "156",
+        "kategori_adi": "Müzik",
+        "kategori_aciklama": "Müzik",
+        "kategori_url": "https://www.nadirkitap.com/muzik-kategori156.html"
+      },
+      {
+        "kategori_id": "155",
+        "kategori_adi": "Resim, Heykel",
+        "kategori_aciklama": "Resim, Heykel",
+        "kategori_url": "https://www.nadirkitap.com/resim-heykel-kategori155.html"
+      },
+      {
+        "kategori_id": "154",
+        "kategori_adi": "Sahne Sanatları",
+        "kategori_aciklama": "Sahne Sanatları",
+        "kategori_url": "https://www.nadirkitap.com/sahne-sanatlari-kategori154.html"
+      },
+      {
+        "kategori_id": "230",
+        "kategori_adi": "Sanat Tarihi",
+        "kategori_aciklama": "Sanat Tarihi",
+        "kategori_url": "https://www.nadirkitap.com/sanat-tarihi-kategori230.html"
+      },
+      {
+        "kategori_id": "304",
+        "kategori_adi": "Sinema",
+        "kategori_aciklama": "Sinema",
+        "kategori_url": "https://www.nadirkitap.com/sinema-kategori304.html"
+      },
+      {
+        "kategori_id": "245",
+        "kategori_adi": "Teori, Kuram",
+        "kategori_aciklama": "Teori, Kuram",
+        "kategori_url": "https://www.nadirkitap.com/teori-kuram-kategori245.html"
+      },
+      {
+        "kategori_id": "152",
+        "kategori_adi": "Tiyatro",
+        "kategori_aciklama": "Tiyatro",
+        "kategori_url": "https://www.nadirkitap.com/tiyatro-kategori152.html"
+      },
+      {
+        "kategori_id": "151",
+        "kategori_adi": "Diğer",
+        "kategori_aciklama": "Diğer",
+        "kategori_url": "https://www.nadirkitap.com/diger-kategori151.html"
+      }
+    ]
+  },
+  {
+    "ana_kategori_id": "102",
+    "ana_kategori_adi": "Sınav ve Ders Kitapları",
+    "ana_kategori_aciklama": "Sınav Kitapları",
+    "ana_kategori_url": "https://www.nadirkitap.com/sinav-ve-ders-kitaplari-kategori102.html",
+    "alt_kategoriler": [
+      {
+        "kategori_id": "108",
+        "kategori_adi": "İlköğretim",
+        "kategori_aciklama": "İlköğretim",
+        "kategori_url": "https://www.nadirkitap.com/ilkogretim-kategori108.html"
+      },
+      {
+        "kategori_id": "107",
+        "kategori_adi": "Lise",
+        "kategori_aciklama": "Lise",
+        "kategori_url": "https://www.nadirkitap.com/lise-kategori107.html"
+      },
+      {
+        "kategori_id": "106",
+        "kategori_adi": "Sınav, Hazırlık",
+        "kategori_aciklama": "Sınav, Hazırlık",
+        "kategori_url": "https://www.nadirkitap.com/sinav-hazirlik-kategori106.html"
+      },
+      {
+        "kategori_id": "105",
+        "kategori_adi": "Üniversite",
+        "kategori_aciklama": "Üniversite",
+        "kategori_url": "https://www.nadirkitap.com/universite-kategori105.html"
+      },
+      {
+        "kategori_id": "104",
+        "kategori_adi": "Yabancı Dil",
+        "kategori_aciklama": "Yabancı Dil",
+        "kategori_url": "https://www.nadirkitap.com/yabanci-dil-kategori104.html"
+      },
+      {
+        "kategori_id": "103",
+        "kategori_adi": "Diğer",
+        "kategori_aciklama": "Diğer",
+        "kategori_url": "https://www.nadirkitap.com/diger-kategori103.html"
+      }
+    ]
+  },
+  {
+    "ana_kategori_id": "163",
+    "ana_kategori_adi": "Spor",
+    "ana_kategori_aciklama": "Spor Kitapları",
+    "ana_kategori_url": "https://www.nadirkitap.com/spor-kategori163.html",
+    "alt_kategoriler": [
+      {
+        "kategori_id": "307",
+        "kategori_adi": "Biyografi",
+        "kategori_aciklama": "Biyografi",
+        "kategori_url": "https://www.nadirkitap.com/biyografi-kategori307.html"
+      },
+      {
+        "kategori_id": "168",
+        "kategori_adi": "Doğa Sporları",
+        "kategori_aciklama": "Doğa Sporları",
+        "kategori_url": "https://www.nadirkitap.com/doga-sporlari-kategori168.html"
+      },
+      {
+        "kategori_id": "167",
+        "kategori_adi": "Futbol",
+        "kategori_aciklama": "Futbol",
+        "kategori_url": "https://www.nadirkitap.com/futbol-kategori167.html"
+      },
+      {
+        "kategori_id": "166",
+        "kategori_adi": "Olimpiyatlar",
+        "kategori_aciklama": "Olimpiyatlar",
+        "kategori_url": "https://www.nadirkitap.com/olimpiyatlar-kategori166.html"
+      },
+      {
+        "kategori_id": "165",
+        "kategori_adi": "Spor tarihi",
+        "kategori_aciklama": "Spor tarihi",
+        "kategori_url": "https://www.nadirkitap.com/spor-tarihi-kategori165.html"
+      },
+      {
+        "kategori_id": "341",
+        "kategori_adi": "Zeka Oyunları",
+        "kategori_aciklama": "Zeka Oyunları",
+        "kategori_url": "https://www.nadirkitap.com/zeka-oyunlari-kategori341.html"
+      },
+      {
+        "kategori_id": "164",
+        "kategori_adi": "Diğer",
+        "kategori_aciklama": "Diğer",
+        "kategori_url": "https://www.nadirkitap.com/diger-kategori164.html"
+      }
+    ]
+  },
+  {
+    "ana_kategori_id": "169",
+    "ana_kategori_adi": "Tarih",
+    "ana_kategori_aciklama": "Tarih Kitapları",
+    "ana_kategori_url": "https://www.nadirkitap.com/tarih-kategori169.html",
+    "alt_kategoriler": [
+      {
+        "kategori_id": "296",
+        "kategori_adi": "Afrika Tarihi",
+        "kategori_aciklama": "Afrika Tarihi",
+        "kategori_url": "https://www.nadirkitap.com/afrika-tarihi-kategori296.html"
+      },
+      {
+        "kategori_id": "297",
+        "kategori_adi": "Amerika Tarihi",
+        "kategori_aciklama": "Amerika Tarihi",
+        "kategori_url": "https://www.nadirkitap.com/amerika-tarihi-kategori297.html"
+      },
+      {
+        "kategori_id": "183",
+        "kategori_adi": "Anı hatırat",
+        "kategori_aciklama": "Anı hatırat",
+        "kategori_url": "https://www.nadirkitap.com/ani-hatirat-kategori183.html"
+      },
+      {
+        "kategori_id": "182",
+        "kategori_adi": "Antik dönem, Arkeoloji",
+        "kategori_aciklama": "Antik dönem, Arkeoloji",
+        "kategori_url": "https://www.nadirkitap.com/antik-donem-arkeoloji-kategori182.html"
+      },
+      {
+        "kategori_id": "231",
+        "kategori_adi": "Askeri tarih",
+        "kategori_aciklama": "Askeri tarih",
+        "kategori_url": "https://www.nadirkitap.com/askeri-tarih-kategori231.html"
+      },
+      {
+        "kategori_id": "224",
+        "kategori_adi": "Asya Tarihi",
+        "kategori_aciklama": "Asya Tarihi",
+        "kategori_url": "https://www.nadirkitap.com/asya-tarihi-kategori224.html"
+      },
+      {
+        "kategori_id": "293",
+        "kategori_adi": "Atatürk",
+        "kategori_aciklama": "Atatürk",
+        "kategori_url": "https://www.nadirkitap.com/ataturk-kategori293.html"
+      },
+      {
+        "kategori_id": "179",
+        "kategori_adi": "Avrupa tarihi",
+        "kategori_aciklama": "Avrupa tarihi",
+        "kategori_url": "https://www.nadirkitap.com/avrupa-tarihi-kategori179.html"
+      },
+      {
+        "kategori_id": "294",
+        "kategori_adi": "Balkan Tarihi",
+        "kategori_aciklama": "Balkan Tarihi",
+        "kategori_url": "https://www.nadirkitap.com/balkan-tarihi-kategori294.html"
+      },
+      {
+        "kategori_id": "202",
+        "kategori_adi": "Biyografi",
+        "kategori_aciklama": "Biyografi",
+        "kategori_url": "https://www.nadirkitap.com/biyografi-kategori202.html"
+      },
+      {
+        "kategori_id": "290",
+        "kategori_adi": "Bizans Tarihi",
+        "kategori_aciklama": "Bizans Tarihi",
+        "kategori_url": "https://www.nadirkitap.com/bizans-tarihi-kategori290.html"
+      },
+      {
+        "kategori_id": "178",
+        "kategori_adi": "Dünya tarihi",
+        "kategori_aciklama": "Dünya tarihi",
+        "kategori_url": "https://www.nadirkitap.com/dunya-tarihi-kategori178.html"
+      },
+      {
+        "kategori_id": "177",
+        "kategori_adi": "İktisat Tarihi",
+        "kategori_aciklama": "İktisat Tarihi",
+        "kategori_url": "https://www.nadirkitap.com/iktisat-tarihi-kategori177.html"
+      },
+      {
+        "kategori_id": "207",
+        "kategori_adi": "İslam Tarihi",
+        "kategori_aciklama": "İslam Tarihi",
+        "kategori_url": "https://www.nadirkitap.com/islam-tarihi-kategori207.html"
+      },
+      {
+        "kategori_id": "216",
+        "kategori_adi": "Kurum, Müessese Tarihi",
+        "kategori_aciklama": "Kurum, Müessese Tarihi",
+        "kategori_url": "https://www.nadirkitap.com/kurum-muessese-tarihi-kategori216.html"
+      },
+      {
+        "kategori_id": "295",
+        "kategori_adi": "Orta Doğu",
+        "kategori_aciklama": "Orta Doğu",
+        "kategori_url": "https://www.nadirkitap.com/orta-dogu-kategori295.html"
+      },
+      {
+        "kategori_id": "176",
+        "kategori_adi": "Osmanlı tarihi",
+        "kategori_aciklama": "Osmanlı tarihi",
+        "kategori_url": "https://www.nadirkitap.com/osmanli-tarihi-kategori176.html"
+      },
+      {
+        "kategori_id": "175",
+        "kategori_adi": "Selçuklu Tarihi",
+        "kategori_aciklama": "Selçuklu Tarihi",
+        "kategori_url": "https://www.nadirkitap.com/selcuklu-tarihi-kategori175.html"
+      },
+      {
+        "kategori_id": "174",
+        "kategori_adi": "Seyahatname",
+        "kategori_aciklama": "Seyahatname",
+        "kategori_url": "https://www.nadirkitap.com/seyahatname-kategori174.html"
+      },
+      {
+        "kategori_id": "210",
+        "kategori_adi": "Siyasi Tarih",
+        "kategori_aciklama": "Siyasi Tarih",
+        "kategori_url": "https://www.nadirkitap.com/siyasi-tarih-kategori210.html"
+      },
+      {
+        "kategori_id": "173",
+        "kategori_adi": "Sosyal tarih",
+        "kategori_aciklama": "Sosyal tarih",
+        "kategori_url": "https://www.nadirkitap.com/sosyal-tarih-kategori173.html"
+      },
+      {
+        "kategori_id": "172",
+        "kategori_adi": "Şehir Tarihi",
+        "kategori_aciklama": "Şehir Tarihi",
+        "kategori_url": "https://www.nadirkitap.com/sehir-tarihi-kategori172.html"
+      },
+      {
+        "kategori_id": "301",
+        "kategori_adi": "Teori, Kuram",
+        "kategori_aciklama": "Teori, Kuram",
+        "kategori_url": "https://www.nadirkitap.com/teori-kuram-kategori301.html"
+      },
+      {
+        "kategori_id": "209",
+        "kategori_adi": "Türk Tarihi",
+        "kategori_aciklama": "Türk Tarihi",
+        "kategori_url": "https://www.nadirkitap.com/turk-tarihi-kategori209.html"
+      },
+      {
+        "kategori_id": "171",
+        "kategori_adi": "Türkiye Cumhuriyeti Tarihi",
+        "kategori_aciklama": "Türkiye Cumhuriyeti Tarihi",
+        "kategori_url": "https://www.nadirkitap.com/turkiye-cumhuriyeti-tarihi-kategori171.html"
+      },
+      {
+        "kategori_id": "170",
+        "kategori_adi": "Diğer",
+        "kategori_aciklama": "Diğer",
+        "kategori_url": "https://www.nadirkitap.com/diger-kategori170.html"
+      }
+    ]
+  },
+  {
+    "ana_kategori_id": "184",
+    "ana_kategori_adi": "Toplum & Siyaset",
+    "ana_kategori_aciklama": "Siyaset Kitapları",
+    "ana_kategori_url": "https://www.nadirkitap.com/toplum-ve-siyaset-kategori184.html",
+    "alt_kategoriler": [
+      {
+        "kategori_id": "227",
+        "kategori_adi": "Biyografi",
+        "kategori_aciklama": "Biyografi",
+        "kategori_url": "https://www.nadirkitap.com/biyografi-kategori227.html"
+      },
+      {
+        "kategori_id": "192",
+        "kategori_adi": "Etnik, Dini",
+        "kategori_aciklama": "Etnik, Dini",
+        "kategori_url": "https://www.nadirkitap.com/etnik-dini-kategori192.html"
+      },
+      {
+        "kategori_id": "191",
+        "kategori_adi": "Folklor",
+        "kategori_aciklama": "Folklor",
+        "kategori_url": "https://www.nadirkitap.com/folklor-kategori191.html"
+      },
+      {
+        "kategori_id": "190",
+        "kategori_adi": "İletişim, Medya",
+        "kategori_aciklama": "İletişim, Medya",
+        "kategori_url": "https://www.nadirkitap.com/iletisim-medya-kategori190.html"
+      },
+      {
+        "kategori_id": "189",
+        "kategori_adi": "Kadın",
+        "kategori_aciklama": "Kadın",
+        "kategori_url": "https://www.nadirkitap.com/kadin-kategori189.html"
+      },
+      {
+        "kategori_id": "188",
+        "kategori_adi": "Siyaset",
+        "kategori_aciklama": "Siyaset",
+        "kategori_url": "https://www.nadirkitap.com/siyaset-kategori188.html"
+      },
+      {
+        "kategori_id": "187",
+        "kategori_adi": "Siyasi Akımlar",
+        "kategori_aciklama": "Siyasi Akımlar",
+        "kategori_url": "https://www.nadirkitap.com/siyasi-akimlar-kategori187.html"
+      },
+      {
+        "kategori_id": "206",
+        "kategori_adi": "Teori, Kuram",
+        "kategori_aciklama": "Teori, Kuram",
+        "kategori_url": "https://www.nadirkitap.com/teori-kuram-kategori206.html"
+      },
+      {
+        "kategori_id": "237",
+        "kategori_adi": "Toplum",
+        "kategori_aciklama": "Toplum",
+        "kategori_url": "https://www.nadirkitap.com/toplum-kategori237.html"
+      },
+      {
+        "kategori_id": "186",
+        "kategori_adi": "Uluslararası İlişkiler",
+        "kategori_aciklama": "Uluslararası İlişkiler",
+        "kategori_url": "https://www.nadirkitap.com/uluslararasi-iliskiler-kategori186.html"
+      },
+      {
+        "kategori_id": "185",
+        "kategori_adi": "Diğer",
+        "kategori_aciklama": "Diğer",
+        "kategori_url": "https://www.nadirkitap.com/diger-kategori185.html"
+      }
+    ]
+  },
+  {
+    "ana_kategori_id": "193",
+    "ana_kategori_adi": "Diğer & Çeşitli",
+    "ana_kategori_aciklama": "Çeşitli Kitaplar",
+    "ana_kategori_url": "https://www.nadirkitap.com/diger-ve-cesitli-kategori193.html",
+    "alt_kategoriler": [
+      {
+        "kategori_id": "344",
+        "kategori_adi": "Astroloji, Fal",
+        "kategori_aciklama": "Astroloji, Fal",
+        "kategori_url": "https://www.nadirkitap.com/astroloji-fal-kategori344.html"
+      },
+      {
+        "kategori_id": "339",
+        "kategori_adi": "Avcılık - Bahçecilik",
+        "kategori_aciklama": "Avcılık - Bahçecilik",
+        "kategori_url": "https://www.nadirkitap.com/avcilik-bahcecilik-kategori339.html"
+      },
+      {
+        "kategori_id": "211",
+        "kategori_adi": "Eğitim, Pedagoji",
+        "kategori_aciklama": "Eğitim, Pedagoji",
+        "kategori_url": "https://www.nadirkitap.com/egitim-pedagoji-kategori211.html"
+      },
+      {
+        "kategori_id": "196",
+        "kategori_adi": "Kütüphanecilik",
+        "kategori_aciklama": "Kütüphanecilik",
+        "kategori_url": "https://www.nadirkitap.com/kutuphanecilik-kategori196.html"
+      },
+      {
+        "kategori_id": "235",
+        "kategori_adi": "Mitoloji",
+        "kategori_aciklama": "Mitoloji",
+        "kategori_url": "https://www.nadirkitap.com/mitoloji-kategori235.html"
+      },
+      {
+        "kategori_id": "221",
+        "kategori_adi": "Nümismatik, Pul",
+        "kategori_aciklama": "Nümismatik, Pul",
+        "kategori_url": "https://www.nadirkitap.com/numismatik-pul-kategori221.html"
+      },
+      {
+        "kategori_id": "332",
+        "kategori_adi": "Turizm - Gezi",
+        "kategori_aciklama": "Turizm - Gezi",
+        "kategori_url": "https://www.nadirkitap.com/turizm-gezi-kategori332.html"
+      },
+      {
+        "kategori_id": "195",
+        "kategori_adi": "Yemek Kitapları",
+        "kategori_aciklama": "Yemek Kitapları",
+        "kategori_url": "https://www.nadirkitap.com/yemek-kitaplari-kategori195.html"
+      },
+      {
+        "kategori_id": "194",
+        "kategori_adi": "Diğer",
+        "kategori_aciklama": "Diğer",
+        "kategori_url": "https://www.nadirkitap.com/diger-kategori194.html"
+      }
+    ]
+  }
+]
